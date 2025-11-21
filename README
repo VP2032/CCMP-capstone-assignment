@@ -1,0 +1,4 @@
+step1: Upload an image to vandit-original-images
+step2: Call the Api Gateway endpointw ith image key and its starts the step function state mnachine
+step3: State function calls lambda function
+step4: lambda resizes the image and saves it to vandit-resized-images
